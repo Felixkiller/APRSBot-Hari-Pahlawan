@@ -1,0 +1,14 @@
+# Python bytecode dan cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Lingkungan virtual
+.venv/
+venv/
+
+# File lokal/hasil eksekusi
+.env
+logs/
+generated_cards/*
+!generated_cards/.gitkeep
